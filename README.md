@@ -23,7 +23,6 @@
 ### Notes
 
 Describe any challenges encountered while building the app.
-1. Trying to get the YouTube player to actually play the videos.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
